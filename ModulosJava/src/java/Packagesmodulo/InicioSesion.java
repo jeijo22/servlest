@@ -26,7 +26,7 @@ public class InicioSesion extends HttpServlet {
        String Clave = request.getParameter ("Clave");
        
        if (Usuario_Validado.equals(Usuario) && Clave_Validado.equals(Clave)){
-           request.getRequestDispatcher("Bienvenidos.jsp").forward(request, response);
+           request.getRequestDispatcher("bienvenidos.jsp").forward(request, response);
                   
        }else {
            request.setAttribute("error", "Usuario o Clave Incorrecta");

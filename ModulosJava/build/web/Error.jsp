@@ -31,7 +31,7 @@ h1 {
       background-color:greenyellow;
       text-align: center;
       margin-top: 20px;
-        }
+            }
     
      label{
         display: block;
@@ -40,7 +40,7 @@ h1 {
                  }
 
         input[type =" text"],
-        input[type= "pasword"]{
+         input[type= "pasword"]{
             width: calc(100% - 20px);
             padding: 20px;
             margin-bottom:  5px; 

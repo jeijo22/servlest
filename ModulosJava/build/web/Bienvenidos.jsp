@@ -10,23 +10,25 @@
               font-family: Arial, Helvetica, sans-serif;
               margin:0;
               padding:0;
-              background-color: graytext;
+              background-color:lightsteelblue;
             }
             
             h1{
                 text-align: center;
                 margin-top: 100px;
                 font-size: 48px;
-                color:grey;
+                color:black;
                 }
                 p{
                     text-align: center;
                     font-size:24px;
                     color:#333;
-                    }
-        </style>
+                   }
+                               
+    </style>
     </head>
     <body>
         <h1>BIENVENIDOS A MY PARKING</h1>
+             
     </body>
 </html>
